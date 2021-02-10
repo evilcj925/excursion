@@ -1,7 +1,7 @@
 body  { 
     background-color: black;
     color: white;
-    font-family: Verdana;
+    font-family: Verdana, sans-serif;
     text-align: center;
 }
 
@@ -9,8 +9,30 @@ body  {
 
 h4 {
     color: aquamarine;
+    font-size: 16px;
 }
 
 .video {
     text-align: center;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+p {
+    font-size: 21px;
+    color: grey;
+}
+
+.copyright {
+    text-align: right;
+    color: grey;
+}
+
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+
 }
