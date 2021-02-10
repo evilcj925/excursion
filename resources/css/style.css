@@ -1,9 +1,16 @@
-body {
+body  { 
     background-color: black;
     color: white;
+    font-family: Verdana;
+    text-align: center;
 }
 
-h1 {
+
+
+h3 {
+    color: aquamarine;
+}
+
+.video {
     text-align: center;
-    
 }
